@@ -10,6 +10,8 @@
 
 **Rationale:** I have prior experience with C#. There is no reason to learn an entire new framework for this project as the requirements don't imply whether or not I should.
 
+**Alternative:** Use unreal or godot instead.
+
 ### Battle System
 **Decision:** Utilize floppy disks to change magic type. transition from a turn based JRPG to an arcade shmup.
 
