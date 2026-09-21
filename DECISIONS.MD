@@ -1,5 +1,10 @@
 # Decision Log
 ##PRE PLANNING (AKA I don't know the exact date... Around August and Early September)
+### Disk Media Type
+**Decision:** Use Floppy Disks
+
+**Rationale:** I originally wanted to use ZIP DISKS instead of Floppy Disks but USB Zip Drives are too expensive. I already have a USB Floppy Drive.
+
 ### ENGINE
 **Decision:** Use Unity to create a Dungeon Crawler.
 
