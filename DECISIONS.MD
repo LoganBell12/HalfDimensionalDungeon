@@ -1,5 +1,5 @@
 # Decision Log
-##PRE PLANNING (AKA I don't know the exact date... Around August and Early September)
+## PRE PLANNING (AKA I don't know the exact date... Around August and Early September)
 ### Disk Media Type
 **Decision:** Use Floppy Disks
 
@@ -23,7 +23,7 @@ appropriate because there is no tension to swapping disks when the battle is tur
 
 **Alternative:** Bring back one character.
 
-##September 14
+## September 14
 ### Text System 
 
 **Decision:** I decided to stick to using an old text system I made several years ago. I am already regretting it because it's awful. 
